@@ -1,0 +1,53 @@
+PODS:
+  - agora_rtc_engine (5.3.1):
+    - AgoraIrisRTC_macOS (= 3.7.0.3)
+    - AgoraRtcEngine_macOS (= 3.7.0.3)
+    - FlutterMacOS
+  - AgoraIrisRTC_macOS (3.7.0.3)
+  - AgoraRtcEngine_macOS (3.7.0.3):
+    - AgoraRtcEngine_macOS/AINS (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/AV1Dec (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/ContentInspect (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/FullAudioFormat (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/ROIEnc (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/RtcBasic (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/SpatialAudio (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/SuperResolution (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/VideoPreprocess (= 3.7.0.3)
+    - AgoraRtcEngine_macOS/VirtualBackground (= 3.7.0.3)
+  - AgoraRtcEngine_macOS/AINS (3.7.0.3)
+  - AgoraRtcEngine_macOS/AV1Dec (3.7.0.3)
+  - AgoraRtcEngine_macOS/ContentInspect (3.7.0.3)
+  - AgoraRtcEngine_macOS/FullAudioFormat (3.7.0.3)
+  - AgoraRtcEngine_macOS/ROIEnc (3.7.0.3)
+  - AgoraRtcEngine_macOS/RtcBasic (3.7.0.3)
+  - AgoraRtcEngine_macOS/SpatialAudio (3.7.0.3)
+  - AgoraRtcEngine_macOS/SuperResolution (3.7.0.3)
+  - AgoraRtcEngine_macOS/VideoPreprocess (3.7.0.3)
+  - AgoraRtcEngine_macOS/VirtualBackground (3.7.0.3)
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `Flutter/ephemeral/.symlinks/plugins/agora_rtc_engine/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraIrisRTC_macOS
+    - AgoraRtcEngine_macOS
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: Flutter/ephemeral/.symlinks/plugins/agora_rtc_engine/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: d3a8dd9db471c53cf52561db5880dfe1c9e3c8c6
+  AgoraIrisRTC_macOS: d38e1331248c14cc9f57068095517554d5a5e7e9
+  AgoraRtcEngine_macOS: 53243a1be5db8c3115c0ec761aec903a38e9640a
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
